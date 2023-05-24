@@ -1,4 +1,4 @@
-# Java Project
+# Game of life
 MARGARON Maud, AFONSO Inês, RIO Loann - EENG3 - 05/31/2023
 ## History of Conway's game of Life
 Conway's game of Life was created by John Conway in 1970. It is the most famous example of a cellular automaton. It has been created after Conway got interested in a mathematical problem made by John von Neumann that was about creating a mathematical model that could build copies of itself.
