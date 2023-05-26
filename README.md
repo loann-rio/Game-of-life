@@ -24,3 +24,5 @@ We added two more rules:
  -  Save as text or CSV: Allow users to save the grid and its contents as either a text file or a CSV file.
 
 ## Screenshots & Animations
+
+![image](https://github.com/loann-rio/Game-of-life/assets/81096844/cbebfba4-9a01-4c5f-86e2-797e1f7ce3ae)
