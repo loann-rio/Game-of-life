@@ -248,7 +248,7 @@ public class MyInterface extends JFrame {
  			public void actionPerformed(ActionEvent e) {
  				try {
  					// open readMe on Github
- 	 				URI uri= new URI("https://github.com/loann-rio/projetJava/tree/develop");
+ 	 				URI uri= new URI("https://github.com/loann-rio/Game-of-life");
  	 			    Desktop.getDesktop().browse(uri);
  				 
  				  } catch (Exception a) {
